@@ -8,8 +8,3 @@
     <img src="https://skillicons.dev/icons?i=html,css,bootstrap,sass,javascript,jquery,react,vue,vite,mysql,postman,php,laravel">
   </a>
 </p>
-
-
-<br />
-
-<div align="center"><img src="https://komarev.com/ghpvc/?username=giuseppesciacca&color=brightgreen" /></div>
