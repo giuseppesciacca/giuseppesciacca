@@ -5,6 +5,6 @@
 <p align="center">My Stack:</p>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,bootstrap,sass,javascript,jquery,react,vue,vite,mysql,postman,php,laravel,java,spring">
+    <img src="https://skillicons.dev/icons?i=html,css,bootstrap,sass,javascript,ts,react,vue,vite,mysql,postman,php,laravel,java,spring">
   </a>
 </p>
